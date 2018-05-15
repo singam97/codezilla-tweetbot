@@ -1,0 +1,19 @@
+{
+  "name": "tweetbot",
+  "version": "1.0.0",
+  "description": "Codezilla 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singam97/codezilla-tweetbot.git"
+  },
+  "author": "Ajanthasingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singam97/codezilla-tweetbot/issues"
+  },
+  "homepage": "https://github.com/singam97/codezilla-tweetbot#readme"
+}
